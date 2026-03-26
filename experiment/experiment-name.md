@@ -1,1 +1,1 @@
-## Experiment name
+## Design of Binary to Gray code converter using MSI ICs
