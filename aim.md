@@ -1,0 +1,1 @@
+To design and implement 3-bit Binary to Gray code converter using IC-74LS138

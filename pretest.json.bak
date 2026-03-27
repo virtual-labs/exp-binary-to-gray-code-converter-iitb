@@ -1,0 +1,47 @@
+[
+  {
+    "question": "The weight of the LSB as a binary number is:",
+    "qid": 1,
+    "option_a": "2^0",
+    "option_b": "2^1",
+    "option_c": "10^1",
+    "option_d": "10^0",
+    "correct_option": "a"
+  },
+  {
+    "question": "A binary number's value changes most drastically when the ____ is changed.",
+    "qid": 2,
+    "option_a": "LSB",
+    "option_b": "Duty cycle",
+    "option_c": "MSB",
+    "option_d": "Frequency",
+    "correct_option": "c"
+  },
+  {
+    "question": "The __________ code is a non-weighted binary code.",
+    "qid": 3,
+    "option_a": "Excess-3",
+    "option_b": "Gray",
+    "option_c": "Multiple bit",
+    "option_d": "Minimum value",
+    "correct_option": "b"
+  },
+  {
+    "question": "Binary Number = 101 Gray code = 111.State  that above conversion is correct or not?",
+    "qid": 4,
+    "option_a": "Correct",
+    "option_b": "In-correct",
+    "option_c": "",
+    "option_d": "",
+    "correct_option": "a"
+  },
+  {
+    "question": "Binary Number = 001 Gray code = 011.State that above conversion is correct or not?",
+    "qid": 5,
+    "option_a": "Correct",
+    "option_b": "In-correct",
+    "option_c": "",
+    "option_d": "",
+    "correct_option": "b"
+  }
+]
